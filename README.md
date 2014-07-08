@@ -17,8 +17,8 @@ The code in file run_analysis.R
 
 - Adds new column to give human readable version of activity code (eg. 1 = Walking). These values are retrieved from "activity_labels.txt"
 
-- Selects a subset of data, icluding columns for subject ID, activity ID, activity name and any value coumn with the text "mean" or "std" in it
+- Selects a subset of data, icluding columns for subject ID, activity ID, activity name and any value coumn with the text "mean()" or "std()" in it
 
 - Creates a tidy dataset, calculating the mean for every value for each combination of activity and subject
 
-- Exports the tidy dataset to "UCI-HAR/tidyData.txt"
+- Exports the tidy dataset to "tidyData.txt"
