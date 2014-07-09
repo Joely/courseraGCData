@@ -19,6 +19,6 @@ The code in file run_analysis.R
 
 - Selects a subset of data, icluding columns for subject ID, activity ID, activity name and any value coumn with the text "mean()" or "std()" in it
 
-- Creates a tidy dataset, calculating the mean for every value for each combination of activity and subject
+- Creates a tidy dataset, calculating the mean of each variable for each combination of activity and subject
 
 - Exports the tidy dataset to "tidyData.txt"

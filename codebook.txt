@@ -37,4 +37,4 @@ fBodyAccJerkMag
 fBodyGyroMag
 fBodyGyroJerkMag
 
-The tidy dataset provided does not contain the original recorded data but contains the standard deviation and the mean for each variable for the relevant subject and activity type. These are listed with the suffix "-mean()" or "-std()" as appropriate
+The tidy dataset provided does not contain the original recorded data but contains the mean of the standard deviation and the mean of the mean for each variable for the relevant subject and activity type. These are listed with the suffix "-mean()" or "-std()" as appropriate
